@@ -1,5 +1,4 @@
 outs:
-- md5: 0e6f23441675d997000d3124eff749c4
+- md5: 628c7c6a4bf0c7efc862185d897c16d8
   size: 346778
-  hash: md5
   path: Wafer_07012020_000000.csv
